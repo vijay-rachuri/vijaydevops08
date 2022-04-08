@@ -8,4 +8,6 @@ node('master')
 	{
     sh label: '', script: 'mvn package'
 	}
+      hellow world
 }
+
